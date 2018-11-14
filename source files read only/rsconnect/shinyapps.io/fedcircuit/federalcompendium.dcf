@@ -1,0 +1,10 @@
+name: federalcompendium
+title: FederalCompendium
+account: fedcircuit
+server: shinyapps.io
+appId: 198895
+bundleId: 1683250
+url: https://fedcircuit.shinyapps.io/federalcompendium/
+when: 1541436696.35165
+asMultiple: FALSE
+asStatic: FALSE
